@@ -32,7 +32,7 @@ Space Bar O
   1.배고파
   
   
-  인용상자 
+  ### 인용상자 
   
   공부 하기싫다
   >하지만 해야겠지  
@@ -45,13 +45,26 @@ Space Bar O
   __강조__  
   *룰루랄라 **발로란트** 하고싶당* 
   
-  First header | Second header 
+ ### 테이블
+ 
+ First header | Second header 
   -------------|-------------- 
   hahaha1      | hohoho1  
   hahaha2      | hohoho2 
   
   
+ ### 체크박스
+ 
+ - [x] 1
+ - [ ] 2
+ - [x] 3
   
+### 수평선
+
+---
+***
+___
+
 
 
 
