@@ -30,3 +30,10 @@ Space Bar O
 3. 발로란트 할거야
   1.다이어트
   1.배고파
+
+
+'''javascript
+function test(){
+ console.log("hello world!");
+ }
+ '''
