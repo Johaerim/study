@@ -30,10 +30,13 @@ Space Bar O
 3. 발로란트 할거야
   1.다이어트
   1.배고파
+  
+  
+  
+  공부 하기싫다
+  >하지만 해야겠지
+  >굳이 해야할까
+  
 
 
-'''javascript
-function test(){
- console.log("hello world!");
- }
- '''
+
